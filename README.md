@@ -9,9 +9,9 @@
 <h4 align="center"> WACV 2025 </h4>
 
 <h4 align="center"> 
-  <a href="https://jugit.fz-juelich.de/ias-8/mdeaux"> <img src="https://img.shields.io/static/v1?label=project page&message=sgd_biased&color=green?style=plastic"/> </a>
+  <a href="https://jugit.fz-juelich.de/ias-8/mdeaux"> <img src="https://img.shields.io/static/v1?label=project page&message=mdeaux&color=green?style=plastic"/> </a>
 </h4>
 
 <br>
 
-Official implementation at: [https://jugit.fz-juelich.de/ias-8/sgd_biased](https://jugit.fz-juelich.de/ias-8/mdeaux).
+Official implementation at: [https://jugit.fz-juelich.de/ias-8/mdeaux](https://jugit.fz-juelich.de/ias-8/mdeaux).
